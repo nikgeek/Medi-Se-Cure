@@ -4,7 +4,7 @@ const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new WalletProvider(
         'crystal vote net brick depend snow lucky arrive crystal rebuild tape cause' ,
-        'https://rinkeby.infura.io/v3/ffd0b457c58342deb84aa6f580768f1b'
+        'https://rinkeby.infura.io/v3/29db0143ef9f420da0bf325dc5ceaf42'
 );
 
 const web3 = new Web3(provider);
